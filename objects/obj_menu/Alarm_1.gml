@@ -1,0 +1,3 @@
+/// @desc
+
+window_center();
